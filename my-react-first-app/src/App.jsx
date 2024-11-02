@@ -103,6 +103,7 @@ import Discount from './Discount';
 const App = () => {
     return (
         <>
+        <h1>this is modification file</h1>
            <Increment/>
            <IncrementDecrement/>
            <Apple/>
@@ -110,6 +111,7 @@ const App = () => {
            <Discount/>
             
             <Blog />
+    
             <h1>Movie List</h1>
             <MovieGrid/>
             <h1>BrightText</h1>
